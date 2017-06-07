@@ -89,7 +89,6 @@ PRODUCT_COPY_FILES += \
 
 # RIL
 PRODUCT_COPY_FILES += \
-    vendor/samsung/ancora_tmo/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/ancora_tmo/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/ancora_tmo/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/ancora_tmo/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so
