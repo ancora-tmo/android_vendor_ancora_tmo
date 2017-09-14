@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
 # HW libs
 PRODUCT_COPY_FILES += \
     vendor/samsung/ancora_tmo/proprietary/lib/libakm.so:system/lib/libakm.so \
-    vendor/samsung/ancora_tmo/proprietary/lib/hw/sensors.GT-I8150.so:system/lib/hw/sensors.ancora.so
+    vendor/samsung/ancora_tmo/proprietary/lib/hw/sensors.ancora_tmo.so:system/lib/hw/sensors.ancora_tmo.so
 
 # Camera libs
 PRODUCT_COPY_FILES += \
